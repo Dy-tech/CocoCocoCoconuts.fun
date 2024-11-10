@@ -1,0 +1,64 @@
+/* Apply background image settings */
+html {
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/002/266/590/small/summer-beach-background-free-vector.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Brand;
+}
+
+/* Center the content and make the root take the full height */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Center the .content div vertically and horizontally */
+.root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1; /* Fills remaining space */
+}
+
+.content {
+    width: 600px;
+    margin: auto;
+    background-color: white;
+    padding: 5px 10px 5px 10px;
+    border-radius: 40px;
+}
+
+.pagenumbox {
+    background-color: grey;
+    text-align: right;
+}
+
+.pagenum {
+	color: white;
+}
+
+hr {
+    width: 400px;
+    color: darkslategrey;
+    border-width: medium;
+}
+
+/* Position media-theme-sutro-audio at the bottom */
+media-theme-sutro-audio {
+    align-self: center; /* Center horizontally at the bottom */
+    margin-bottom: 10px; /* Optional: Adds some spacing at the bottom */
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}

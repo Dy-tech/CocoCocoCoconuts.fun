@@ -1,0 +1,94 @@
+@font-face {
+    font-family: Brand;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Regular'), url('/res/font/ProductSans-Regular.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: Italic;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Italic'), url('/res/font/ProductSans-Italic.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: Thin;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Thin Regular'), url('/res/font/ProductSans-Thin.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: Light;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Light Regular'), url('/res/font/ProductSans-Light.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: Medium;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Medium Regular'), url('/res/font/ProductSans-Medium.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: Black;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Black Regular'), url('/res/font/ProductSans-Black.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: ThinItalic;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Thin Italic'), url('/res/font/ProductSans-ThinItalic.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: LightItalic;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Light Italic'), url('/res/font/ProductSans-LightItalic.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: MediumItalic;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Medium Italic'), url('/res/font/ProductSans-MediumItalic.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: Bold;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Bold'), url('/res/font/ProductSans-Bold.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: BoldItalic;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Bold Italic'), url('/res/font/ProductSans-BoldItalic.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: BlackItalic;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Product Sans Black Italic'), url('/res/font/ProductSans-BlackItalic.woff') format('woff');
+}
