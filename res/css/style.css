@@ -72,7 +72,7 @@ a {
     color: black;
 }
 
-.navitem {
+.pagelistpage {
     text-align: center;
     list-style: none;
     display: block;
@@ -81,20 +81,20 @@ a {
     cursor: pointer;
 }
 
-li.navitem a {
+li.pagelistpage a {
     display: block;
     padding: 8px;
-    background-color: aliceblue;
-    color: mediumslateblue;
+    background-color: slateblue;
+    color: aliceblue;
     text-decoration: none;
     border-radius: 13px;
     transition: border-radius 0.3s;
     cursor: pointer;
 }
 
-li.navitem a:hover {
-    background-color: white;
-    color: slateblue;
+li.pagelistpage a:hover {
+    background-color: mediumslateblue;
+    color: white;
     border: 2px solid aliceblue;
     transition: background-color 1s;
     border-radius: 8px;
