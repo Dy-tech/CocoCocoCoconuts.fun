@@ -72,7 +72,8 @@ a {
     color: black;
 }
 
-.pagelist {
+.pagelistinner {
+    width: fit-content;
     margin: auto;
 }
 
