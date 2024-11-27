@@ -50,6 +50,8 @@ body {
 
 .pagenum {
 	color: white;
+    margin-left: 8px;
+    margin-right: 8px;
 }
 
 hr {
@@ -68,4 +70,33 @@ media-theme-sutro-audio {
 a {
     text-decoration: none;
     color: black;
+}
+
+.navitem {
+    text-align: center;
+    list-style: none;
+    display: block;
+    width: 150px;
+    margin: 0 8px;
+    cursor: pointer;
+}
+
+li.navitem a {
+    display: block;
+    padding: 8px;
+    background-color: aliceblue;
+    color: mediumslateblue;
+    text-decoration: none;
+    border-radius: 13px;
+    transition: border-radius 0.3s;
+    cursor: pointer;
+}
+
+li.navitem a:hover {
+    background-color: white;
+    color: slateblue;
+    border: 2px solid aliceblue;
+    transition: background-color 1s;
+    border-radius: 8px;
+    transition: border-radius 0.3s;
 }
