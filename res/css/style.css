@@ -75,6 +75,7 @@ a {
 .pagelistinner {
     width: fit-content;
     margin: auto;
+    padding-inline-start: 0;
 }
 
 .pagelistpage {
@@ -82,7 +83,7 @@ a {
     list-style: none;
     display: block;
     width: 150px;
-    margin: 3px 8px;
+    margin: 3px 0;
     cursor: pointer;
 }
 
