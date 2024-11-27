@@ -42,8 +42,10 @@ body {
 .pagenumbox {
     background-color: grey;
     text-align: right;
-    border-radius: 10px;
-    height: 10px;
+    border-radius: 12.5px;
+    height: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .pagenum {
