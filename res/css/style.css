@@ -65,6 +65,7 @@ media-theme-sutro-audio {
     align-self: center; /* Center horizontally at the bottom */
     margin-bottom: 10px; /* Optional: Adds some spacing at the bottom */
     height: auto;
+    width: 1000px;
 }
 
 a {
